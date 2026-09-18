@@ -14,8 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/julia-carrillo-12819b3a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julia-carrillo-12819b3a0" height="30" width="40" /></a>
-<a href="https://fb.com/julia carrillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="julia carrillo" height="30" width="40" /></a>
-<a href="https://instagram.com/julii.carrillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="julii.carrillo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
